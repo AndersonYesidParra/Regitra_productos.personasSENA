@@ -1,0 +1,104 @@
+
+section {
+    background: linear-gradient(to right, #e0eafc, #cfdef3);
+    width: 35%;
+    height: 50%;
+    margin: auto;
+    margin-top: 20vh;
+    border-radius: 20px;
+}
+h1{
+   font-size: 200%;
+   font-weight: bold;
+   letter-spacing: 3px;
+   text-align: center;
+   text-shadow: black 6px 6px  8px;
+   text-transform: uppercase;
+}
+.dato{
+
+    margin: 50px 20px;
+    text-align: center;
+}
+.blanco{
+    color: rgb(0, 0, 0);
+}
+.registro{
+    height: 65vh;
+}
+.btn{
+    border: 1px solid black;
+    padding: 5px 10px;
+    background: linear-gradient(to right, #efefbb, #d4d3dd);
+    height: 30px;
+    width: 130px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+    font-size: 1rem;
+}
+.tituloproducto{
+    color: black;
+    background: linear-gradient(to right, #f7f8f8, #acbb78);
+    text-align: center;
+    margin: 0%;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #ced4da;
+    letter-spacing: 3px;
+    text-decoration: overline underline;
+    
+}
+.producto{
+    color: black;
+    background: linear-gradient(to right, #f7f8f8, #acbb78);
+}
+
+.menu{
+    border-radius: 10px 0 10px 0;
+    color: rgb(29, 29, 29);
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+ul{
+        list-style-type: none;
+        background-color: #457b9d;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+}
+li{
+        float: left;
+}
+li a{
+        display: block;
+        color: ghostwhite;
+        text-align: center;
+        padding: 15px;
+        text-decoration: none;
+}
+li a:hover{
+        background-color: #1d3557;
+}
+div a{
+    border-radius: 10px 0 10px 0;
+    padding: 5px 10px;
+    background-color: #457b9d;
+    height: 30px;
+    width: 130px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+    font-size: 1rem;
+}
+table{
+    float: right;
+    width: 80%;
+    color: black;
+    border-radius: 2px;
+    border: 1px solid black;
+    padding: 16px;
+}
